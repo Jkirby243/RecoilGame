@@ -1,7 +1,7 @@
 # RecoilGame
 Steps to play
 
-Step 1.) Download Recoil Build folder
+Step 1.) Click the code button and choose download .ZIP
 
 Step 2.) Open and Run Recoil.exe
 
